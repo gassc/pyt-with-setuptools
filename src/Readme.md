@@ -1,7 +1,5 @@
 # src
 
-Your package's source code lives *within* this folder. 
+Your package's source code lives in a folder *within* this folder. 
 
-Work on your Python Toolbox here.
-
-Everything in the `esri` folder is auto-built by the `make_tbx_files.py` script.
+Work on your Python Toolbox here. Your Python toolbox will be able to import your custom package `foo` from here.
